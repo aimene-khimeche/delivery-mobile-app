@@ -1,0 +1,13 @@
+/home/aimene/Desktop/Github-Projects/delivery-mobile-app/build/linux/x64/debug/bundle/delivery_app
+/home/aimene/Desktop/Github-Projects/delivery-mobile-app/build/linux/x64/debug/bundle/data/icudtl.dat
+/home/aimene/Desktop/Github-Projects/delivery-mobile-app/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so
+/home/aimene/Desktop/Github-Projects/delivery-mobile-app/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
+/home/aimene/Desktop/Github-Projects/delivery-mobile-app/build/linux/x64/debug/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+/home/aimene/Desktop/Github-Projects/delivery-mobile-app/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
+/home/aimene/Desktop/Github-Projects/delivery-mobile-app/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
+/home/aimene/Desktop/Github-Projects/delivery-mobile-app/build/linux/x64/debug/bundle/data/flutter_assets/shaders/ink_sparkle.frag
+/home/aimene/Desktop/Github-Projects/delivery-mobile-app/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.json
+/home/aimene/Desktop/Github-Projects/delivery-mobile-app/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.bin
+/home/aimene/Desktop/Github-Projects/delivery-mobile-app/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/home/aimene/Desktop/Github-Projects/delivery-mobile-app/build/linux/x64/debug/bundle/data/flutter_assets/images/fast-delivery.png
+/home/aimene/Desktop/Github-Projects/delivery-mobile-app/build/linux/x64/debug/bundle/data/flutter_assets/version.json
